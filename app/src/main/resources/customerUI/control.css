@@ -1,0 +1,6 @@
+.button {
+  -fx-text-fill: NAVAJOWHITE;
+  -fx-font-family: "Arial";
+  -fx-font-weight: bold;
+  -fx-background-color: linear-gradient(#61a2b1,#2a5058);
+}

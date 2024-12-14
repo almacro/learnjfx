@@ -1,0 +1,31 @@
+/* 
+    Created on : Dec 4, 2024, 6:29:40 PM
+    Author     : almacro
+*/
+.root {
+    -fx-background-image: url("background4.jpg");
+}
+
+.label {
+  -fx-font-size: 12px;
+  -fx-font-weight: bold;
+  -fx-text-fill: #0E1D33;
+}
+
+#login-text {
+  -fx-font-size: 32px;
+  -fx-font-family: "Arial Bold";
+  -fx-text-fill: #115E7F;
+}
+
+#actiontarget {
+  -fx-fill: WHITE;
+  -fx-font-weight: bold;
+}
+
+.button {
+  -fx-text-fill: WHITE;
+  -fx-font-family: "Arial Narrow";
+  -fx-font-weight: bold;
+  -fx-background-color: linear-gradient(#61a2b1,#2a5058);
+}

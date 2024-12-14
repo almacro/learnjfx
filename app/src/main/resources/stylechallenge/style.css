@@ -1,0 +1,23 @@
+/* 
+    Created on : Dec 12, 2024, 11:36:06 AM
+    Author     : almacro
+*/
+.button {
+    -fx-background-radius: 8;
+}
+.hbox, .vbox {
+    -fx-background-color: steelblue;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-alignment: CENTER;
+}
+.text, .hbox, .vbox {
+    -fx-font-family: Verdana;
+    -fx-font-size: 14px;
+}
+.label {
+    -fx-text-fill: aliceblue;
+}
+.chart-legend {
+    -fx-background-color: steelblue;
+}

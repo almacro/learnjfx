@@ -1,0 +1,20 @@
+/* 
+    Created on : Dec 12, 2024, 10:08:16 AM
+    Author     : almacro
+*/
+
+.button {
+    -fx-text-fill:white;
+    -fx-font-family:'Arial Narrow';
+    -fx-font-weight:bold;
+    -fx-background-color:linear-gradient(#61a2b1,#2A5058);
+    -fx-background-radius: 5;
+}
+#center {
+    -fx-background-color: #2f4f4f;
+    -fx-fill: tan;
+    -fx-alignment: center;   
+}
+.button, #center {
+    -fx-font:24px "Verdana";
+}
